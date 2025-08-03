@@ -14,9 +14,11 @@ A simple and lightweight **Stopwatch** application built for time tracking with 
 
 ---
 
-## 🖥️ Demo
+### 🔗 Live Demo
 
-Live Demo: [Click here](#) <!-- Replace # with your hosted URL (like GitHub Pages, Vercel, Netlify) -->
+🌐 <span>
+  🔗 <a href="https://stop-watch-three-pied.vercel.app/" target="_blank"><strong>View Live Portfolio</strong></a>
+</span>
 
 ---
 
@@ -24,8 +26,7 @@ Live Demo: [Click here](#) <!-- Replace # with your hosted URL (like GitHub Page
 
 <!-- You can add screenshots -->
 <p align="center">
-  <img src="screenshots/stopwatch-light.png" width="300">
-  <img src="screenshots/stopwatch-dark.png" width="300">
+  <img src="Image.img1.png" width="300">
 </p>
 
 ---
