@@ -26,7 +26,7 @@ A simple and lightweight **Stopwatch** application built for time tracking with 
 
 <!-- You can add screenshots -->
 <p align="center">
-  <img src="Images/img1.png" width="300">
+  <img src="Images/img1.png" width="100%">
 </p>
 
 ---
